@@ -7,4 +7,4 @@
 - Azure SQL with DR in a differnt region created with a failover group mechanism to enable automatic failover in case the primay region goes down<br>
 - Load balancing rules are used to route to specific ports from incoming to backend<br>
 - Azure Availability Sets have been used to get more SLA in terms of the uptime of 99.95%</p>
-<p class="has-line-data" data-line-start="10" data-line-end="15">2 - G
+<p class="has-line-data" data-line-start="10" data-line-end="15">
